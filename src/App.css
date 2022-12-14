@@ -1,12 +1,13 @@
 .App {
   font-family:'Times New Roman', Times, serif;
-  background-color: rgb(71, 101, 71);
+  
 }
 
 .home-page {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  background-color: rgb(71, 101, 71);
 }
 
 .header {
