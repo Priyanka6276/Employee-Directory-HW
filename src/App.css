@@ -60,3 +60,25 @@
 .name > h4 {
   color: gray;
 }
+
+.full {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(71, 101, 71);
+}
+
+.full-employee {
+  width: 100%;
+}
+
+.employee {
+  display: flex;
+  gap: 15px;
+  background-color: rgb(133, 177, 133);
+}
+
+.info {
+  padding: 10px;
+  background-color: rgb(133, 177, 133);
+  gap: 15px;
+}
